@@ -44,7 +44,3 @@ namespace Tyuiu.ZaripovEO.Sprint2.Task4.V2
         }
     }
 }
-
-        }
-    }
-}
