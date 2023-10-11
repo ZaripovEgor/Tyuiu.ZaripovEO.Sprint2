@@ -67,6 +67,7 @@ namespace Tyuiu.ZaripovEO.Sprint2.V15.Lib
                 case 344:
                 case 351:
                 case 358:
+                case 365:
                     res = "Понедельник";
                     break;
                 case 2:
