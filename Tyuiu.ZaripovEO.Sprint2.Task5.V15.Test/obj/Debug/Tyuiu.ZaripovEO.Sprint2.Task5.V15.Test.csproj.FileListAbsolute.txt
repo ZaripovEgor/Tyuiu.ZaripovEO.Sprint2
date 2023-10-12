@@ -1,0 +1,17 @@
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Tyuiu.ZaripovEO.Sprint2.V15.Test.dll
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Tyuiu.ZaripovEO.Sprint2.V15.Test.pdb
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Tyuiu.ZaripovEO.Sprint2.V15.Lib.dll
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Tyuiu.ZaripovEO.Sprint2.V15.Lib.pdb
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\obj\Debug\Tyuiu.ZaripovEO.Sprint2.Task5.V15.Test.csproj.AssemblyReference.cache
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\obj\Debug\Tyuiu.ZaripovEO.Sprint2.Task5.V15.Test.csproj.CoreCompileInputs.cache
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\obj\Debug\Tyuiu.ZaripovEO.Sprint2.Task5.V15.Test.csproj.CopyComplete
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\obj\Debug\Tyuiu.ZaripovEO.Sprint2.V15.Test.dll
+C:\Users\zarip\source\repos\Tyuiu.ZaripovEO.Sprint2\Tyuiu.ZaripovEO.Sprint2.V15.Test\obj\Debug\Tyuiu.ZaripovEO.Sprint2.V15.Test.pdb
